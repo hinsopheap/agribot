@@ -1,0 +1,7 @@
+{
+  "name": "Agribot Cambodia",
+  "description": "A voice-enabled Telegram-style bot for Cambodian farmers to get agricultural advice in Khmer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
